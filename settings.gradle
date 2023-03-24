@@ -1,0 +1,3 @@
+rootProject.name = 'multi-module-sample'
+include 'application'
+include 'service'
